@@ -101,12 +101,16 @@ class Celestine:
         ]
 ```
 
+### 📊 Github Stats
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Celest-ine&layout=compact)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Celest-ine&show_icons=true&theme=react)
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celestine-wangechi/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Celesti75379542)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aiwithceleste/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangechicelestine@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wangechicelestine@gmail.com)
 
 ## Skills & Expertise
 
