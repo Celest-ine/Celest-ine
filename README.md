@@ -102,7 +102,7 @@ class Celestine:
 ```
 
 ### 📊 Github Stats
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Celest-ine&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Celest-ine&theme=react&layout=compact)
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Celest-ine&show_icons=true&theme=react)
 
 ## Let's Connect
